@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96952620298",
+    "project_id": "crud-proj-4a65e",
+    "storage_bucket": "crud-proj-4a65e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96952620298:android:397c6e372bfbd1964596f3",
+        "android_client_info": {
+          "package_name": "com.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgjFxJycxRh7ZFogapmE6uZ6fYq6DlsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
